@@ -1,0 +1,35 @@
+.container {
+    width: 970px;
+}
+
+.p-text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    color: black;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color: black;
+}
+
+.box{
+    border-radius: 5px;
+    width: 600px;
+    height: 95px;
+    border: 1.5px black solid;
+}
+
+form {
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+
+.next {
+    display: inline-block;
+    vertical-align: top;
+}
